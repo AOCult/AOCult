@@ -14,8 +14,6 @@ I am dedicated to continuous learning and the systematic mastery of computer sci
 
     [x] CS50 SQL: Database Design and Management
 
-    [x] CS50 Game Development: Interactive Systems
-
     [x] CS50 Web: Web Programming with Python and JavaScript
 
     [x] CS50 Cybersecurity: Security Fundamentals
@@ -26,9 +24,7 @@ I am dedicated to continuous learning and the systematic mastery of computer sci
 
     [x] CS50 Scratch: Visual Programming
 
-    [x] CS50 for Lawyers: Legal Technology
-
----
+---Game Development
 
 ### 💻 Key Projects
 *   **[Pong Game](https://github.com/AOCult/pong-game):** Developed using LÖVE & Lua, focusing on game architecture and collision logic.
